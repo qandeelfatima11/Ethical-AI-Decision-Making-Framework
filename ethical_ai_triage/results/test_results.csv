@@ -1,0 +1,11 @@
+patient_id,age,gender,severity,wait_time_min,assigned_priority,ethical_note
+P14,30,Female,Moderate,86,High,No age/gender bias applied
+P40,72,Male,Minor,30,Low,No age/gender bias applied
+P31,18,Female,Minor,27,Low,No age/gender bias applied
+P46,60,Male,Moderate,40,High,No age/gender bias applied
+P18,46,Female,Minor,12,Low,No age/gender bias applied
+P49,42,Male,Critical,60,High,No age/gender bias applied
+P27,26,Female,Moderate,64,High,No age/gender bias applied
+P26,32,Male,Moderate,59,High,No age/gender bias applied
+P33,82,Male,Critical,25,High,No age/gender bias applied
+P20,52,Male,Critical,77,High,No age/gender bias applied
